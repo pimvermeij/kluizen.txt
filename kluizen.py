@@ -36,7 +36,7 @@ def kluis_openen(filename):
             return("helaas klopt de combinatie van uw kluisnummer en uw wachtwoord niet!")
 
 def kluis_teruggeven():
-    p
+    ppp
 
 
 print("1: Ik wil weten hoeveel kluizen nog vrij zijn")
